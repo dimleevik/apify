@@ -6,8 +6,8 @@
   "scripts": {
     "test": "jest",
     "test:cov": "jest --coverage --detectOpenHandles",
-    "build":"tsc",
-    "start":"node dist/index"
+    "build": "tsc",
+    "start": "node dist/index"
   },
   "author": "",
   "license": "ISC",
